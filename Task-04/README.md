@@ -1,34 +1,42 @@
 # 🧠 AIDD 30-Day Challenge — Task 4
-**PDF Summarizer & Quiz Agent (Environment Setup)**
+**PDF Summarizer & Quiz Agent (Environment Setup + Full Working App)**
 
 ---
 
-## 📌 Overview
+## Overview
 Successfully connected the **Context7 MCP Server** to the **Gemini CLI**, enabling live tool access and up-to-date documentation.  
 This eliminates guesswork and syntax errors while building the **PDF Study Notes Summarizer & Quiz Generator Agent**.  
 
+**Alhamdulillah — Full App Built, Tested & Deployed Live!**
+
+**Live Demo**  
+https://aidd-task4-generate-summary-quiz.streamlit.app/
+
 ---
 
-## ✅ Completed Requirements
-- **Connect Context7 MCP Server** → ✅ Done  
+## Completed Requirements
+- **Connect Context7 MCP Server** → Done  
   ![MCP Connection](screenshots/mcp_connect.png)
 
-- **Generate Summary** → ✅ Done  
+- **Generate Summary** → Done  
   ![Generating Summary](screenshots/generating_summary.png)
 
-- **Generate Quiz** → ✅ Done  
+- **Generate Quiz** → Done  
   ![Generate Quiz](screenshots/generate_quiz.png)
 
-- **Summary Generated** → ✅ Done  
+- **Summary Generated** → Done  
   ![Generated Summary](screenshots/generated_summary.png)
 
-- **Quiz Submitted & Checked** → ✅ Done  
+- **Quiz Submitted & Checked** → Done  
   ![Quiz Completed](screenshots/submit_and_check_quiz.png)
 
+- **Full App Deployed on Streamlit Cloud** → Done  
+  Live Link: https://aidd-task4-generate-summary-quiz.streamlit.app/
 
 ---
 
-## 📂 Project Structure
+## Project Structure
+
 ```
 ├── README.md
 ├── GEMINI.md
@@ -36,24 +44,22 @@ This eliminates guesswork and syntax errors while building the **PDF Study Notes
 ├── agent.py
 ├── app.py
 ├── .env
-├── user_profile.json
 ├── pyproject.toml
 └── screenshots/
-    ├── mcp_connect.png
-    ├── mcp_tools.png
-    ├── cli_prompt_test.png
-    ├── summary_ui.png
-    ├── generated_summary.png
-    ├── quiz_ui.png
-    └── submit_and_check_quiz.png
+├── mcp_connect.png
+├── summary_ui.png
+├── generated_summary.png
+├── quiz_ui.png
+└── submit_and_check_quiz.png
 ```
----
-
-## 🏁 Task Status
-**Task 4 → Alhamdulillah Completed ✅**  
-Environment is now 100% ready for building the PDF Summarizer & Quiz Agent in the next phase.
 
 ---
 
-## 🔗 References
-- Context7 Official → [https://context7.com](https://context7.com)  
+## Task Status
+**Task 4 → Alhamdulillah Completed & Live Deployed**
+
+---
+
+## References
+- **Live App** → https://aidd-task4-generate-summary-quiz.streamlit.app/  
+- **Context7 Official** → [https://context7.com](https://context7.com)  
