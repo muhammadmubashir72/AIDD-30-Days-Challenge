@@ -12,11 +12,11 @@ This setup allows the AI to read repositories, explore files, create new repos, 
 
 | Requirement                                 | Status | Proof                                                                 |
 |---------------------------------------------|--------|-----------------------------------------------------------------------|
-| GitHub Personal Access Token (PAT) Created  | ✔      | ![PAT Created](/screenshots/env_file_blurred.png)                             |
-| Token Stored Securely in `.env`             | ✔      | ![Secure Token](/screenshots/env_file.png)                    |
-| Gemini Connected With GitHub MCP Server     | ✔      | ![MCP Connected](/screenshots/github_mcp_connect.png)                 |
-| MCP Tools Loaded Successfully (90+ Tools)   | ✔      | ![90+ Tools](/screenshots/github_remaining_tools.png)                 |
-| GitHub Repository List Fetched              | ✔      | ![Repo List 1](/screenshots/repo_list.png) <br> ![Repo List 2](/screenshots/repo_list_2.png) |
+| GitHub Personal Access Token (PAT) Created  | ✔      | ![PAT Created](screenshots/env_file_blurred.png)                             |
+| Token Stored Securely in `.env`             | ✔      | ![Secure Token](screenshots/env_file.png)                    |
+| Gemini Connected With GitHub MCP Server     | ✔      | ![MCP Connected](screenshots/github_mcp_connect.png)                 |
+| MCP Tools Loaded Successfully (90+ Tools)   | ✔      | ![90+ Tools](screenshots/github_remaining_tools.png)                 |
+| GitHub Repository List Fetched              | ✔      | ![Repo List 1](screenshots/repo_list.png) <br> ![Repo List 2](screenshots/repo_list_2.png) |
 
 ## Project Structure
 
