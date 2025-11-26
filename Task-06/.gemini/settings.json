@@ -1,0 +1,35 @@
+{
+  "security": {
+    "auth": {
+      "selectedType": "oauth-personal"
+    }
+  },
+  "ui": {
+    "theme": "GitHub"
+  },
+  "ide": {
+    "hasSeenNudge": true
+  },
+   "mcpServers": {
+
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"],
+      "env": {
+        "CONTEXT7_API_KEY": "process.env.CONTEXT7_MCP_URL"
+      }
+    },
+
+        "github": {
+      "httpUrl": "https://api.githubcopilot.com/mcp/",
+      "headers": {
+        "Authorization": "process.env.GITHUB_MCP_TOKEN"
+      },
+      "timeout": 5001
+    }
+
+  },
+  "general": {
+    "previewFeatures": true
+  }
+}
