@@ -23,10 +23,6 @@ Build a simple **Calculator Web App** using SPECKitPlus and complete all 5 phase
 2. **Project Successfully Created**  
    ![Project Created Successfully](screenshots/spec-project-created.png)  
 
-3. **Slash command se saare commands dekhne ke liye**  
-   `/sp.` likha to saare available commands aa gaye  
-   ![All SPECKit commands](screenshots/sp-commands.png)  
-
 
 **Calculator Test Screenshots:**
 
