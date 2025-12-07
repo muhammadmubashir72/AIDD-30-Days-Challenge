@@ -32,7 +32,7 @@ Build a simple **Calculator Web App** using SPECKitPlus and complete all 5 phase
 
 4. **Multiply Test and Result**  
 ![Multiply Test](screenshots/multiply_calculation.png)
-![Multiply Result](screenshots/multiply_calculation_result.png)
+![Multiply Result](screenshots/multiply_calculoation_result.png)
 
 ![Subtract Test](screenshots/subtract_calculation.png)
 ![Subtract Result](screenshots/subtract_calculation_result.png)
@@ -41,7 +41,7 @@ Build a simple **Calculator Web App** using SPECKitPlus and complete all 5 phase
 
 ## ✅ SPECKitPlus Prompts
 
-Perfect — below are **ready-to-paste prompts** for each SPECKit slash command. Copy the entire block for each command into Claude (SPECKit) exactly as shown.
+Perfect — below are **ready-to-p daste prompts** for each SPECKit slash command. Copy the entire block for each command into Claude (SPECKit) exactly as shown.
 
 ---
 
